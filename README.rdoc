@@ -3,3 +3,18 @@
 Redmine is a flexible project management web application written using Ruby on Rails framework.
 
 More details can be found at in the doc directory or on the official website http://www.redmine.org
+README.rdoc
+Rakefile
+app
+config
+db
+doc
+extra
+files
+lib
+log
+public
+script
+test
+tmp
+vendor
